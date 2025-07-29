@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/product-development/static/css/main.966435c7.css",
+    "main.js": "/product-development/static/js/main.359b8629.js",
+    "static/media/me.jpeg": "/product-development/static/media/me.6423fd32198c13ebb756.jpeg",
+    "index.html": "/product-development/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.966435c7.css",
+    "static/js/main.359b8629.js"
+  ]
+}
