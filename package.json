@@ -1,7 +1,7 @@
 {
     "name": "ux-to-dev",
     "version": "1.0.0",
-    "homepage": "https://marcelouxengineer.github.io/product-development/",
+    "homepage": "https://marcelouxengineer.github.io/product-development/n",
     "private": true,
     "dependencies": {
         "bootstrap": "^5.2.3",
@@ -22,7 +22,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
+        "predeploy": "nmp run build",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
