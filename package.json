@@ -1,7 +1,7 @@
 {
     "name": "ux-to-dev",
     "version": "1.0.0",
-    "homepage": "https://marcelouxengineer.github.io/ux-to-dev/",
+    "homepage": "https://marcelouxengineer.github.io/product-development/",
     "private": true,
     "dependencies": {
         "bootstrap": "^5.2.3",
