@@ -12,7 +12,7 @@ const introdata = {
         third: "I connect ideas to execution",
     },
     description: "Good design solves problems. Great design brings ideas to life - from the first sketch to the last line of code",
-    your_img_url: require("./assets/images/me.jpeg"),
+    your_img_url: require("./assets/images/me.png"),
 };
 
 const dataabout = {
@@ -79,10 +79,13 @@ const skills = [{
             value: 60,
         },
         {
-            name: "Python",
+            name: "React",
             value: 50,
         },
-     
+        {
+            name: "React",
+            value: 50,
+        },
         
     
 ];
@@ -90,8 +93,8 @@ const skills = [{
 
 
 const services = [{
-        title: "USP/ESALQ (2025-2027)",
-        description: " Software engineering MBA, Development, Engineering and AI",
+        title: "Rocketseat Development Academy (2025-2026)",
+        description: " Full-Stack developer journey",
     },
     {
         title: "ESPM (2022-2024)",
@@ -104,25 +107,12 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn-images-1.medium.com/v2/resize:fit:2600/1*qbDle128fS2VI5EeXRrBrg.avif",
+        description: "Designing iCamp: How I Improved the Way Campers Find New Destinations.",
+        link: "https://www.google.com/search?q=fdf&rlz=1C1VDKB_pt-PTBR1071BR1071&oq=fdf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8",
     },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
+  
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -149,21 +139,13 @@ const dataportfolio = [{
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+  
 ];
 
 const contactConfig = {
