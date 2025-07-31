@@ -22,7 +22,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Motorola Mobility - Product Designer",
         where: "Sao Paulo, Brazil",
-        date: "2022- now",
+        date: "2022- Currently",
     },
     {
         jobtitle: "Bluma - Product Designer",
