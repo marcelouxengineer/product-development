@@ -40,11 +40,7 @@ const skills = [{
         name: "Ux Research",
         value: 95,
     },
-    {
-        name: "UI design",
-        value: 85,
-    },
-
+ 
     
     {
         name: "Prototyping (Figma",
@@ -53,6 +49,11 @@ const skills = [{
     {
         name: "Interaction Design",
         value: 90,
+    },
+
+       {
+        name: "UI design",
+        value: 85,
     },
     {
         name: "Usability Testing",
@@ -83,7 +84,7 @@ const skills = [{
             value: 50,
         },
         {
-            name: "React",
+            name: "Flutter",
             value: 50,
         },
         

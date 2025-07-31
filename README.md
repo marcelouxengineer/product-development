@@ -1,38 +1,26 @@
-### Description
+🌐 Personal Portfolio Website
+This is a fully responsive multi-page portfolio website built using HTML, CSS, and JavaScript, enhanced with React and React Bootstrap for layout and component styling. The project showcases a modern, clean design with dynamic navigation and seamless user experience across all devices.
 
-A simple portfolio template for developer/designers built with React. 
+✨ Key Features
+Responsive Design – Optimized for desktop, tablet, and mobile devices.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+Multi-Page Layout – Structured navigation between Home, Projects, About, and Contact sections.
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+EmailJS Integration – Functional contact form that sends messages directly to your email.
 
-### Features
+React Bootstrap – Used for layout grids, UI components, and consistent styling.
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+Centralized Content Editing – Easily update key information from a single configuration file or component.
 
-### Setup
+🛠️ Technologies Used
+HTML5
 
-Get the code
+CSS3
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
+JavaScript (ES6)
 
-<pre>yarn install</pre>
+React.js
 
+React Bootstrap
 
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+EmailJS

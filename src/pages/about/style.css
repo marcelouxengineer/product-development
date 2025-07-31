@@ -45,6 +45,18 @@
     color: var(--text-color);
 }
 
+
+.curriculum-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+
 @-webkit-keyframes animate-positive {
     0% {
         width: 0%;

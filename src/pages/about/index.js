@@ -57,7 +57,7 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Procuct Design and Engineering</h3>
+            <h3 className="color_sec py-4">Skills</h3>
           </Col>
           <Col lg="7">
             {skills.map((data, i) => {
@@ -92,6 +92,20 @@ export const About = () => {
                 </div>
               );
             })}
+                <div className="curriculum-wrapper">
+                <h3 className="curriculum-heading">
+  <a
+    href="https://drive.google.com/file/d/1EjAscGWNQizJ4qehu4afskc-AfyYgyhw/view?usp=sharing"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="custom-underline"
+  >
+    Curriculum
+  </a>
+</h3>
+
+
+</div>
           </Col>
         </Row>
       </Container>
