@@ -1,4 +1,4 @@
-const logotext = "MARCELO";
+const logotext = "M";
 const meta = {
     title: "Marcelo Antonietto",
     description: "I’m Marcelo Antonietto _ Product Designer, Mobile devloper,currently working in Sao Paulo, Brazil",
